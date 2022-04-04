@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/0intro/bitstamp.svg?branch=master)](https://travis-ci.org/0intro/bitstamp)
+[![Build Status](https://github.com/0intro/bitstamp/workflows/Go/badge.svg)](https://github.com/0intro/bitstamp/actions/workflows/go.yml)
 
 Bitstamp
 ========
